@@ -1,1 +1,1 @@
-# time_tracker
+let's manage time properly
